@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613898660742",
+    "firebase_url": "https://newsfeedwithimage.firebaseio.com",
+    "project_id": "newsfeedwithimage",
+    "storage_bucket": "newsfeedwithimage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613898660742:android:b2020a96bb4cc93ee65a07",
+        "android_client_info": {
+          "package_name": "com.example.newsfeedwithimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613898660742-0ggktnks6ntck32rorg4lg5blhcstjco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIaRZTjLO0CQ4UPLJCoWCNppJq1ZGDxUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613898660742-0ggktnks6ntck32rorg4lg5blhcstjco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
